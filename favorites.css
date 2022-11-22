@@ -1,0 +1,38 @@
+h1 {
+    font-style: normal;
+    font-family: sans-serif;
+    color: #604694;
+    border: 10px solid #E0B59F;
+    padding: 5px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+body {
+    background-color: rgb(224, 130, 180);
+    border:5px solid #604694;
+    padding: 5px;
+    text-align: center;
+}
+h2 {
+    color:#733DDB;
+    font-family: sans-serif;
+}
+
+li{
+    font-family: monospace;
+    background-color:#E0B59F;
+    color:white;
+    padding: 8px;
+}
+ol{
+    border:2px solid #604694;
+    background-color: #E0B59F; 
+}
+img{
+    align-items: inherit;
+    width: 300px;
+    margin: 5px;
+    border-radius: 500px 500px 500px 500px;
+    border:20px groove #604694;    
+
+}
